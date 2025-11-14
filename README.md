@@ -5,6 +5,10 @@ A reusable React component for displaying a collection of books with toggle desc
 ## Quick Start
 
 ```bash
+# Clone the repository
+git clone https://github.com/LikhithShankarPrithvi/react_sample_component.git
+cd react_sample_component
+
 # Install dependencies
 npm install
 
